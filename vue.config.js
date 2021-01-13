@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: "/redsoft/",
   css: {
     loaderOptions: {
       sass: {
