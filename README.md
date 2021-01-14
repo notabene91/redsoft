@@ -1,4 +1,7 @@
-# redsoft
+# Тестовое задание для Redsoft
+
+# Проект на GitHub Pages
+https://notabene91.github.io/redsoft/index.html
 
 ## Project setup
 ```
