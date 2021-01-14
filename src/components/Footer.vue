@@ -26,7 +26,6 @@ export default {
 .footer {
   position: fixed;
   bottom: 0;
-  margin-top: 46px;
   width: 100%;
   min-height: 96px;
   background: $backGrey;
@@ -68,7 +67,7 @@ export default {
 }
 @media screen and (max-width: 1800px) {
   .footer {
-    padding: 0 12%;
+    padding: 0 9%;
   }
 }
 @media screen and (max-width: 1440px) {
