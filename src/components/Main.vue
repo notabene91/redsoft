@@ -23,7 +23,7 @@ export default {
 
 <style lang="scss" scoped>
 .main {
-  padding: 44px 18.3% 0;
+  padding: 44px 18.3% 96px;
 
   &__title {
     font-weight: bold;
@@ -35,18 +35,18 @@ export default {
 
   &__section {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
     grid-gap: 32px;
   }
 }
 @media screen and (max-width: 1800px) {
   .main {
-    padding: 44px 12% 0;
+    padding: 44px 9% 96px;
   }
 }
 @media screen and (max-width: 1440px) {
   .main {
-    padding: 44px 6% 0;
+    padding: 44px 6% 96px;
   }
 }
 </style>
