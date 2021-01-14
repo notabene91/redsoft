@@ -1,24 +1,19 @@
 # Тестовое задание для Redsoft
 
-# Проект на GitHub Pages
+### Проект на GitHub Pages
 https://notabene91.github.io/redsoft/index.html
 
-## Project setup
+## Установка зависимостей
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Проект на локальном сервере
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Сборка проекта
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
